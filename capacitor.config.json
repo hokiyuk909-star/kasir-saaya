@@ -1,0 +1,11 @@
+{
+  "appId": "com.umam.kasirsaaya",
+  "appName": "Kasir SaAya",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
